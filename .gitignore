@@ -1,0 +1,8 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+firebase/
+Attendance.xlsx
+dataset/
+trainer.yml
